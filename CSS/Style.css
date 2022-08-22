@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Roboto:wght@300&display=swap');
+*{
+    font-family: 'Acme', sans-serif;
+}
+body{
+    background-color: #EFEBE9;
+}
+
+.enlace{
+ background-color: #A1887F;
+ text-decoration: none;
+ text-align: center;
+ padding: 5px;
+}
+
+header{
+    background-image: url("../img/fondo1.jpg");
+    background-size: cover;
+    background-repeat: round;
+    }
+
+.logo{    
+    width: 200px;
+    height: 220px;
+    display: block;
+    margin: 0 auto;
+    padding: 0px ;
+    }
+
+h1{
+    background-color: #A1887F;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+h2{
+    background-color: #A1887F;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.experiencia {
+    margin-left: 70px;
+    font-weight: normal;
+    line-height: 15px;
+}
+
+.familia{    
+    width: 600px;
+    height: 620px;
+    display: block;
+    margin: 0 auto;
+    padding: 0px ;
+    }
+
+footer{
+    background-color: #A1887F;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000000;  
+    text-align: center;
+
+}
+
